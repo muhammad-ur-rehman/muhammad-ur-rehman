@@ -112,7 +112,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-ur-rehman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-ur-rehman&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammad-ur-rehman&layout=compact" align="center" />
+</div>  
 
 <br/>  
 
